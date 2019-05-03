@@ -1,0 +1,15 @@
+{
+  "name": "mathemusica",
+  "version": "0.0.1",
+  "description": "\"Minimalist DAW based on mathematical equations.\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start": "electron ."
+  },
+  "author": "Kevin Yang",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^5.0.0"
+  }
+}
